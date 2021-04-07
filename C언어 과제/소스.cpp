@@ -6,3 +6,6 @@ AC : AE = BC : DE
 따라서 AC와 AE, BC를 안다면 DE를 계산할 수 있다. AC와 AE, BC를 입력하여서 DE를 구하는 프로그램을 작성하라.
 입력되는 수치는 모두 실수로 한다.*/
 
+void main(void) {
+
+}
